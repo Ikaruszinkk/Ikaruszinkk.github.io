@@ -29,17 +29,17 @@ p{font-size: 20px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sa
 h1{font-size: 50px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: white;}
 
 .botao{
-    border: solid 1px #ff0000;
+    border: solid 1px #000000;
     border-radius: 20px;
     color: rgb(0, 0, 0);
-    background-color:#ff0000;
+    background-color:#000000;
     transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
     align-items: center;
     width: 24.8%;
     height: 70px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    border-color: rgb(255, 0, 0);
+    border-color: rgb(0, 0, 0);
     
     
     
