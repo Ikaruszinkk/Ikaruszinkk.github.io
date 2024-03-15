@@ -5,9 +5,12 @@ div{
     margin: 0 auto;
     border-top: 20px solid #ff0000;
     text-align: center;
+    border-right: 20px solid black;
+    border-left: 20px solid black;
+
     }
-p{font-size: 20px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: white;}
-h1{font-size: 50px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: white;}
+p{font-size: 20px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: rgb(51, 255, 0);}
+h1{font-size: 50px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: rgb(51, 255, 0);}
 img{
     border: 10px solid black;
     animation: my-animation 3s infinite;
@@ -24,7 +27,7 @@ img{
     border-color: rgb(40, 158, 11);
     }
 }
-h3{font-size: 30px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: white;}
+h3{font-size: 30px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: rgb(51, 255, 0);}
 .botao{
     border: solid 1px #ffffff;
     border-radius: 20px;
@@ -47,7 +50,10 @@ h3{font-size: 30px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', 
     transform: scale(1.2)
 }
 body {
-    background-image: url('../img/steve\ kawaii.gif');
+    background-image: url('../img/tela\ preta.webp');
     background-attachment: fixed;
 
+}
+#Conteiner1 {
+    background: url('../img/animatronics\ dancando.gif') 
 }
