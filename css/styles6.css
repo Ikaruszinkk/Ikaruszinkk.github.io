@@ -34,3 +34,8 @@ a{
     padding: 8px 15px;
     border-radius: 20px;
     text-align: center;}
+body {
+    background-image: url('../img/gif\ fim.gif');
+    background-attachment: fixed;
+    
+}

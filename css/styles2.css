@@ -27,9 +27,9 @@ p{font-size: 20px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sa
 h1{font-size: 50px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: white;}
 
 .botao{
-    border: solid 1px #000000;
+    border: solid 1px #ffffff;
     border-radius: 20px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     background-color:#000000;
     transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
     align-items: center;
@@ -37,7 +37,7 @@ h1{font-size: 50px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', s
     height: 70px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    border-color: rgb(0, 0, 0);
+    border-color: rgb(255, 255, 255);
     
     
     
@@ -46,4 +46,9 @@ h1{font-size: 50px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', s
     background-color: #ff0800;
     color: rgb(0, 0, 0);
     transform: scale(1.2)
+}
+body {
+    background-image: url('../img/anime-tokyo-ghoul-re-arata-kirishima-eto-yoshimura-wallpaper-preview.jpg');
+    background-attachment: fixed;
+
 }
