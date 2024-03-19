@@ -28,15 +28,6 @@ img{
     }
 }
 h3{font-size: 30px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: white;}
-a{
-    background-color:red;
-    font-size: 14px;
-    font-weight: bold;
-    text-decoration: none;
-    color: #fff;
-    padding: 8px 15px;
-    border-radius: 20px;
-    text-align: center;}
 body {
     background-image: url('../img/tela\ preta.webp');
     background-attachment: fixed;
@@ -45,3 +36,23 @@ body {
 #Conteiner1 {
     background: url('../img/finn\ dancando.gif') 
 }
+a{text-align: right;
+display: block;}
+.botao{
+    border: solid 1px #ffffff;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    background-color:#000000;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    align-items:center;
+    width: 5%;
+    height: 30px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: rgb(0, 0, 0);
+    }
+.botao:hover{
+    background-color: #ff0800;
+    color: rgb(0, 0, 0);
+    transform: scale(1.2)
+    }

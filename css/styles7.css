@@ -1,0 +1,13 @@
+div{
+    background-color: #000000;
+    padding: 50px;
+    width: 930px;
+    margin: 0 auto;
+    border-top: 20px solid #ff0000;
+    text-align: center;
+    border-right: 20px solid black;
+    border-left: 20px solid black;
+    }
+
+body{background: black;}
+h1{font-size: 50px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: white;}
