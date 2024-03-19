@@ -27,7 +27,7 @@ img{
 }
 p{font-size: 20px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: white;}
 h1{font-size: 50px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: white;}
-
+a{position: relative; right: 70px;}
 .botao{
     border: solid 1px #ffffff;
     border-radius: 20px;
@@ -57,3 +57,18 @@ body {
 #Conteiner1 {
     background: url('../img/foxy\ jumpscare.png') 
 }
+* { margin: 0;
+    padding: 0;}
+    header{
+        text-align: center;
+        bottom: 0;
+        width: 100%;
+        height: 120px;
+        background-color: #000000;
+    }
+    
+    a {
+        color:cornflowerblue;
+        font-size: 15px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }

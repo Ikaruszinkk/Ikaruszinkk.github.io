@@ -57,3 +57,18 @@ body {
 #Conteiner1 {
     background: url('../img/animatronics\ dancando.gif') 
 }
+header{
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 180px;
+    background-color: #000000;
+}
+
+a {
+    color:cornflowerblue;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#p11 { color: #ffffff;}
+#h11 {color: #ffffff;}

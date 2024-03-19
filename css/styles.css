@@ -56,3 +56,19 @@ body {
     background: url('../img/tela\ preta.webp') right;
     background-attachment: fixed;
 }
+* { margin: 0;
+padding: 0;}
+
+header{
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 120px;
+    background-color: #000000;
+}
+
+a {
+    color:cornflowerblue;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
