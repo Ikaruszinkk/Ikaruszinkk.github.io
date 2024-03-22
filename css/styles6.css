@@ -11,31 +11,18 @@ div{
     }
 p{font-size: 20px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: white;}
 h1{font-size: 50px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: white;}
-img{
-    border: 10px solid black;
-    animation: my-animation 3s infinite;
-    }
-    
-    @keyframes my-animation {
-    0% {
-    border-color: rgb(59, 38, 179);
-    }
-    50% {
-    border-color: red;
-    }
-    100% {
-    border-color: rgb(40, 158, 11);
-    }
-}
+
 h3{font-size: 30px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: white;}
 body {
     background-image: url('../img/tela\ preta.webp');
     background-attachment: fixed;
     
 }
-#Conteiner1 {
-    background: url('../img/finn\ dancando.gif') 
+img{
+    height: 500px;
 }
+
+
 a{text-align: right;
 display: block;}
 .botao{
