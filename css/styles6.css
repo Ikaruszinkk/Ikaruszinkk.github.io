@@ -43,3 +43,24 @@ display: block;}
     color: rgb(0, 0, 0);
     transform: scale(1.2)
     }
+    #a1 {
+        position: relative; top: 10px; right:  200px;
+    }
+    #a2 {
+        position: relative; top: 10PX; right: 150px;
+    }
+    #a3 {
+        position: relative; top: 10px; right: 100px;
+    }
+    #a4{
+        position: relative; top: 10px; left: -50px;
+    }
+    #a5 {
+        position: relative; top: 10px; left: -10px;
+    }
+    #a6 {
+        position: relative; top: 10px; right: -30px;
+    }
+    #a7 {
+        position: relative; top: 10px; right: -70px;
+    }
