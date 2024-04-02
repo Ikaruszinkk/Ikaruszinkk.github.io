@@ -73,3 +73,28 @@ a {
 }
 #p11 { color: #ffffff;}
 #h11 {color: #ffffff;}
+
+footer {
+    bottom: 0;
+    padding: 0;
+    height: 200px;
+    width: 1864px;
+    margin-top: 400px;
+    background: url('../img/hatsune.gif');
+    background-repeat: no-repeat;
+    background-size: 1875px 200px;
+    background-position-x: center;
+}
+
+#index {
+    bottom: 0;
+    padding: 0;
+    height: 200px;
+    width: 1864px;
+    margin-top: 0px;
+    background: url('../img/hatsune.gif');
+    background-repeat: no-repeat;
+    background-size: 1875px 200px;
+    background-position-x: center;
+
+}
